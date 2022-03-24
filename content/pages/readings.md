@@ -60,7 +60,7 @@ G1 Phase and Initiation of DNA Replication
 {{< tdopen >}}
 
 
-Donovan, S., J. Harwood, L. S. Drury, and J. F. Diffley. "Cdc6p-Dependent Loading of Mcm Proteins onto Pre-Replicative Chromatin in Budding Yeast." Proceedings of the National Academy of Sciences of the United States of America 94, no. 11 (1997): 5611-5616. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=20826&blobtype=pdf))
+Donovan, S., J. Harwood, L. S. Drury, and J. F. Diffley. "Cdc6p-Dependent Loading of Mcm Proteins onto Pre-Replicative Chromatin in Budding Yeast." Proceedings of the National Academy of Sciences of the United States of America 94, no. 11 (1997): 5611-5616. ([PDF](http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=20826&blobtype=pdf))
 
 Mailand, N., and J. F. Diffley. "[CDKs Promote DNA Replication Origin Licensing in Human Cells by Protecting Cdc6 from APC/C-Dependent Proteolysis.](http://www.ncbi.nlm.nih.gov/pubmed/16153703)" _Cell_ 122, no. 6 (2005): 915-926.
 
@@ -80,7 +80,7 @@ S Phase and Replication Fork Regression
 
 Dimitrova, D. S., and D. M. Gilbert. "[The Spatial Position and Replication Timing of Chromosomal Domains Are both Established in Early G1 Phase](http://www.ncbi.nlm.nih.gov/pubmed/10635323)." _Molecular Cell_ 4, no. 6 (1999): 983-993.
 
-Moyer, S. E., P. W. Lewis, and M. R. Botchan. "Isolation of the Cdc45/Mcm2-7/GINS (CMG) Complex, a Candidate for the Eukaryotic DNA Replication Fork Helicase." Proceedings of the National Academy of Sciences of the United States of America 103, no. 27 (2006): 10236-10241. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7 MB](http://www.pnas.org/cgi/reprint/103/27/10236.pdf))
+Moyer, S. E., P. W. Lewis, and M. R. Botchan. "Isolation of the Cdc45/Mcm2-7/GINS (CMG) Complex, a Candidate for the Eukaryotic DNA Replication Fork Helicase." Proceedings of the National Academy of Sciences of the United States of America 103, no. 27 (2006): 10236-10241. ([PDF - 1.7 MB](http://www.pnas.org/cgi/reprint/103/27/10236.pdf))
 
 
 {{< tdclose >}}
@@ -114,7 +114,7 @@ Checkpoints
 {{< tdopen >}}
 
 
-Kuerbitz, S. J., B. S. Plunkett, W. V. Walsh, and M. B. Kastan. "Wild-Type p53 Is a Cell Cycle Checkpoint Determinant Following Irradiation." Proceedings of the National Academy of Sciences of the United States of America 89, no. 16 (1992): 7491-7495. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB](http://www.pnas.org/cgi/reprint/89/16/7491.pdf))
+Kuerbitz, S. J., B. S. Plunkett, W. V. Walsh, and M. B. Kastan. "Wild-Type p53 Is a Cell Cycle Checkpoint Determinant Following Irradiation." Proceedings of the National Academy of Sciences of the United States of America 89, no. 16 (1992): 7491-7495. ([PDF - 1.5 MB](http://www.pnas.org/cgi/reprint/89/16/7491.pdf))
 
 Katou, Y., Y. Kanoh, M. Bando, H. Noguchi, H. Tanaka, T. Ashikari, K.Sugimoto, and K. Shirahige. "S-Phase Checkpoint Proteins Tof1 and Mrc1 Form a Stable Replication-Pausing Complex." _Nature_ 424, no. 6952 (2003): 1078-1083.
 
@@ -162,7 +162,7 @@ Development and Endoreduplication
 {{< tdopen >}}
 
 
-Verkest, A., C. L. Manes, S. Vercruysse, S. Maes, E. Van Der Schueren, T. Beeckman, P. Genschik, M. Kuiper, D. Inze, and L. De Veylder. "The Cyclin-Dependent Kinase Inhibitor KRP2 Controls the Onset of the Endoreduplication Cycle during Arabidopsis Leaf Development through Inhibition of Mitotic CDKA; 1 Kinase Complexes." _The Plant Cell_ 17, no. 6 (2005): 1723-1736. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.plantcell.org/cgi/reprint/17/6/1723.pdf))
+Verkest, A., C. L. Manes, S. Vercruysse, S. Maes, E. Van Der Schueren, T. Beeckman, P. Genschik, M. Kuiper, D. Inze, and L. De Veylder. "The Cyclin-Dependent Kinase Inhibitor KRP2 Controls the Onset of the Endoreduplication Cycle during Arabidopsis Leaf Development through Inhibition of Mitotic CDKA; 1 Kinase Complexes." _The Plant Cell_ 17, no. 6 (2005): 1723-1736. ([PDF](http://www.plantcell.org/cgi/reprint/17/6/1723.pdf))
 
 Gregoire, D., K. Brodolin, and M. Mechali. "HoxB Domain Induction Silences DNA Replication Origins in the Locus and Specifies a Single Origin at its Boundary." _EMBO Reports_ 7, no. 8 (2006): 812-816.
 
